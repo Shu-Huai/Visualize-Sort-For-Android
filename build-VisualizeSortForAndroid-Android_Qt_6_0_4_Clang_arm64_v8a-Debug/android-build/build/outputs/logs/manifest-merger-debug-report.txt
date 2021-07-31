@@ -60,9 +60,11 @@ ADDED from D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Q
 	android:label
 		ADDED from D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:249-270
 	android:launchMode
-		ADDED from D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:309-339
+		ADDED from D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:370-400
 	android:configChanges
 		ADDED from D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:19-188
+	android:theme
+		ADDED from D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:309-369
 	android:name
 		ADDED from D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:189-248
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
