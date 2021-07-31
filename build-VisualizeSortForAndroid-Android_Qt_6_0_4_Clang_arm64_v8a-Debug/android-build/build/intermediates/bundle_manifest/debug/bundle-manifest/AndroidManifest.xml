@@ -39,7 +39,7 @@
             android:label="排序可视化"
             android:launchMode="singleTop"
             android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

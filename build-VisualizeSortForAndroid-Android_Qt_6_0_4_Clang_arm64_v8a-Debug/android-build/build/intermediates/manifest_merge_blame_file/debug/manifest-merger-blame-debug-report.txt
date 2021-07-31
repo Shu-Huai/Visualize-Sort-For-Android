@@ -59,11 +59,11 @@
 39            android:label="排序可视化"
 39-->D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:249-270
 40            android:launchMode="singleTop"
-40-->D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:370-400
+40-->D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:374-404
 41            android:screenOrientation="landscape"
 41-->D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:271-308
-42            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
-42-->D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:309-369
+42            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+42-->D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:14:309-373
 43            <intent-filter>
 43-->D:\Qt\VisualizeSortForAndroid\build-VisualizeSortForAndroid-Android_Qt_6_0_4_Clang_arm64_v8a-Debug\android-build\AndroidManifest.xml:15:13-18:29
 44                <action android:name="android.intent.action.MAIN" />
